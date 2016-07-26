@@ -34,16 +34,16 @@
 		'a_followed_body' => "Votre réponse sur ^site_title a une nouvelle question liée par ^q_handle:\n\n^open^q_title^close\n\nVotre réponse était:\n\n^open^a_content^close\n\nCliquer ci-dessous pour répondre à la nouvelle question:\n\n^url\n\nMerci,\n\n^site_title",
 		'a_followed_subject' => 'Votre réponse sur ^site_title a une nouvelle question liée',
 
-		'a_selected_body' => "Félicitations! Votre réponse sur ^site_title a été sélectionné comme la meilleur par ^s_handle:\n\n^open^a_content^close\n\nLa question était:\n\n^open^q_title^close\n\nCliquez ci-dessous pour voir votre réponse:\n\n^url\n\nMerci,\n\n^site_title",
+		'a_selected_body' => "Félicitations! Votre réponse sur ^site_title a été sélectionnée comme la meilleure par ^s_handle:\n\n^open^a_content^close\n\nLa question était:\n\n^open^q_title^close\n\nCliquez ci-dessous pour voir votre réponse:\n\n^url\n\nMerci,\n\n^site_title",
 		'a_selected_subject' => 'Votre réponse sur ^site_title a été sélectionné!',
 
 		'c_commented_body' => "Un nouveau commentaire par ^c_handle a été ajouté après votre commentaire sur ^site_title:\n\n^open^c_content^close\n\nLa discussion est la suivante:\n\n^open^c_context^close\n\nVous pouvez réagir en ajoutant un autre commentaire:\n\n^url\n\nMerci,\n\n^site_title",
 		'c_commented_subject' => 'Un nouveau commentaire sur ^site_title a été ajouté après votre commentaire',
 
-		'confirm_body' => "Merci de cliquez ci-dessous pour valider votre adresse e-mail pour ^site_title.\n\n^url\n\nMerci,\n^site_title",
+		'confirm_body' => "Merci de cliquer ci-dessous pour valider votre adresse e-mail pour ^site_title.\n\n^url\n\nMerci,\n^site_title",
 		'confirm_subject' => '^site_title - Confirmation de l\'adresse email',
 
-		'feedback_body' => "Commentaires:\n^message\n\nName:\n^name\n\nEmail:\n^email\n\nPrevious page:\n^previous\n\nUser:\n^url\n\nIP address:\n^ip\n\nBrowser:\n^browser",
+		'feedback_body' => "Commentaires:\n^message\n\nNom:\n^name\n\nEmail:\n^email\n\nPage précédente:\n^previous\n\nUtilisateur:\n^url\n\nAdresse IP:\n^ip\n\nNavigateur:\n^browser",
 		'feedback_subject' => 'Retour d\'information ^ ',
 
 		'flagged_body' => "Un message par ^p_handle a été ^flags:\n\n^open^p_context^close\n\nCliquez ci-dessous pour voir le message:\n\n^url\n\n\nCliquez ci-dessous pour revoir tous les messages signalés:\n\n^a_url\n\n\nMerci,\n\n^site_title",
@@ -55,12 +55,12 @@
 		'new_password_body' => "Votre nouveau mot de passe pour ^site_title est ci-dessous.\n\nMot de passe: ^password\n\nIl est recommandé de changer ce mot de passe immédiatement après s'être connecté.\n\nMerci,\n^site_title\n^url",
 		'new_password_subject' => '^site_title - Votre nouveau mot de passe',
 
-		'private_message_body' => "Vous avez été envoyé un message privé à ^f_handle on ^site_title:\n\n^open^message^close\n\n^moreMerci,\n\n^site_title\n\n\nPour bloquer les messages privés , visitez la page de votre compte:\n^a_url",
+		'private_message_body' => "Vous avez recu un message privé de ^f_handle sur ^site_title:\n\n^open^message^close\n\n^moreMerci,\n\n^site_title\n\n\nPour bloquer les messages privés, visitez la page de votre compte:\n^a_url",
 		'private_message_info' => "Plus d'informations sur ^f_handle:\n\n^url\n\n",
 		'private_message_reply' => "Cliquez ci-dessous pour répondre à ^f_handle par message privé:\n\n^url\n\n",
 		'private_message_subject' => 'Message de ^f_handle sur ^site_title',
 
-		'q_answered_body' => "Votre question sur ^site_title a eu une réponse par ^a_handle:\n\n^open^a_content^close\n\nVotre question était:\n\n^open^q_title^close\n\nSi cette réponse vous convient, vous pouvez la choisir comme la meilleur:\n\n^url\n\nMerci,\n\n^site_title",
+		'q_answered_body' => "Votre question sur ^site_title a eu une réponse par ^a_handle:\n\n^open^a_content^close\n\nVotre question était:\n\n^open^q_title^close\n\nSi cette réponse vous convient, vous pouvez la choisir comme la meilleure:\n\n^url\n\nMerci,\n\n^site_title",
 		'q_answered_subject' => 'Votre question sur ^site_title a une réponse',
 
 		'q_commented_body' => "Votre question sur ^site_title a un nouveau commentaire par ^c_handle:\n\n^open^c_content^close\n\nVotre question était:\n\n^open^c_context^close\n\nVous pouvez répondre en ajoutant votre propre commentaire:\n\n^url\n\nMerci,\n\n^site_title",

@@ -40,7 +40,7 @@
 		'delete_wall_post_popup' => 'Supprimer ce message sur le mur ',
 		'delete_pm_popup' => 'Supprimer ce message privé',
 		'extra_privileges' => 'privilèges supplémentaires:',
-		'gave_out' => 'S\'est épuisé:',
+		'gave_out' => 'a donné:',
 		'my_account_title' => 'Détails de mon compte',
 		'no_answers_by_x' => 'Pas de réponses par ^',
 		'no_posts_by_x' => 'Pas de messages par ^',
@@ -77,7 +77,7 @@
 		'questions_by_x' => 'Questions par ^',
 		'questions' => 'Questions:',
 		'ranked_x' => ' (classé #^)',
-		'received' => 'Reçu:',
+		'received' => 'a reçu:',
 		'recent_activity_by_x' => 'Activité récente pa ^',
 		'score' => 'Score:',
 		'send_private_message' => ' - ^1envoyer un message privé^2',
@@ -89,7 +89,7 @@
 		'wall_view_more' => 'Voir plus de messages de mur ...',
 		'x_chosen_as_best' => ' (^ choisi comme le meilleur)',
 		'x_down_votes' => '^ votes contre',
-		'x_up_votes' => '^ votes haut',
+		'x_up_votes' => '^ votes pour',
 		'x_with_best_chosen' => ' (^ avec la meilleure réponse choisie)',
 	);
 	

@@ -88,7 +88,7 @@
 		'file_upload_limit_exceeded' => 'La taille du fichier dépasse la limite du serveur',
 		'general_error' => 'Une erreur de serveur s\'est produite - veuillez réessayer plus tard.',
 		'hidden' => 'caché',
-		'highest_users' => 'Meilleurs notations utilisateurs',
+		'highest_users' => 'Meilleures notations utilisateurs',
 		'hot_qs_in_x' => 'Questions A Voir dans ^',
 		'hot_qs_title' => 'Questions A Voir',
 		'image_not_read' => 'L\'image n\'a pas pu être lue. Merci d\'en télécharger une: ^',
