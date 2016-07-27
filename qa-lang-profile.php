@@ -1,11 +1,11 @@
 <?php
-
+	
 /*
 	Question2Answer (c) Gideon Greenspan
 
 	http://www.question2answer.org/
 
-
+	
 	File: qa-include/qa-lang-profile.php
 	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for user profile page
@@ -15,7 +15,7 @@
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-
+	
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -33,14 +33,14 @@
 		'1_up_vote' => '1 vote pour',
 		'1_with_best_chosen' => ' (1 avec la meilleure réponse choisie)',
 		'activity_by_x' => 'Activité par ^',
-		'answers_by_x' => 'Répondu par ^',
+		'answers_by_x' => 'Répondu par ^',		
 		'answers' => 'Réponses:',
 		'bonus_points' => 'Points de bonus:',
 		'comments' => 'Commentaires:',
 		'delete_wall_post_popup' => 'Supprimer ce message sur le mur ',
 		'delete_pm_popup' => 'Supprimer ce message privé',
 		'extra_privileges' => 'privilèges supplémentaires:',
-		'gave_out' => 'A donné:',
+		'gave_out' => 'a donné:',
 		'my_account_title' => 'Détails de mon compte',
 		'no_answers_by_x' => 'Pas de réponses par ^',
 		'no_posts_by_x' => 'Pas de messages par ^',
@@ -77,22 +77,22 @@
 		'questions_by_x' => 'Questions par ^',
 		'questions' => 'Questions:',
 		'ranked_x' => ' (classé #^)',
-		'received' => 'Reçu:',
+		'received' => 'a reçu:',
 		'recent_activity_by_x' => 'Activité récente pa ^',
 		'score' => 'Score:',
 		'send_private_message' => ' - ^1envoyer un message privé^2',
 		'set_bonus_button' => 'Ajouter bonus',
 		'title' => 'Titre:',
 		'user_x' => 'Utilisateur ^',
-		'voted_on' => 'A voté sur:',
+		'voted_on' => 'a voté sur:',
 		'wall_for_x' => 'Mur de ^',
 		'wall_view_more' => 'Voir plus de messages de mur ...',
 		'x_chosen_as_best' => ' (^ choisi comme le meilleur)',
 		'x_down_votes' => '^ votes contre',
-		'x_up_votes' => '^ votes haut',
+		'x_up_votes' => '^ votes pour',
 		'x_with_best_chosen' => ' (^ avec la meilleure réponse choisie)',
 	);
-
+	
 
 /*
 	Omit PHP closing tag to help avoid accidental output
