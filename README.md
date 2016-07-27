@@ -10,3 +10,4 @@
 - Initial french translation by [Olivier SEREE](contrib[at]seree.fr)
 - Additions for 1.7 version by [Pierre-Yves Aillet](pierreyves.aillet@free.fr)
 - All other modifications made by [Florian Schmitt aka mrflos](https://github.com/mrflos).  
+- Better french translations by [Grégoire Barré](https://github.com/goroh100)
