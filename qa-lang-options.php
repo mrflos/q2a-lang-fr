@@ -254,7 +254,7 @@
 		'show_message_history' => 'Stocker et afficher un historique de message privé:',
 		'show_never' => 'Jamais',
 		'show_notice_visitor' => 'Notice en haut pour les visiteurs la première fois - HTML autorisés:',
-		'show_notice_welcome' => 'Notice en haut pour les nouveaux utilisateurs enregistrés - HTML allowed:',
+		'show_notice_welcome' => 'Notice en haut pour les nouveaux utilisateurs enregistrés - HTML autorisés:',
 		'show_register_terms' => 'Termes & Conditions checkbox sur le formulaire d\'enregistrement - HTML autorisés:',
 		'show_selected_first' => 'Déplacer la réponse séléctionner en haut:',
 		'show_url_links' => 'Détecter les liens URL dans les messages:',
