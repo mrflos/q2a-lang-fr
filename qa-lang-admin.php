@@ -231,7 +231,7 @@
 		'reset_options_button' => 'Rétablir les paramètres par défaut',
 		'reset_options_confirm' => 'Êtes-vous sûr de vouloir réinitialiser toutes les options de cette page à leur valeur par défaut ?',
 		'resume_mailing_button' => 'Reprendre le Mailing',
-		'save_options_button' => 'Enregistrer Options',
+		'save_options_button' => 'Enregistrer modifications',
 		'save_recalc_button' => 'Enregistrer et Recalculer',
 		'save_view_button' => 'Sauver et voir',
 		'send_test_button' => 'M\'envoyer un Test',
