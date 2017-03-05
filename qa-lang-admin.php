@@ -215,7 +215,7 @@
 		'recount_posts_votes_recounted' => 'Recompte votes et signalements pour ^1 sur ^2 messages...',
 		'recount_posts' => 'Recompte messages',
 		'refill_events_complete' => 'Tous les événements courants ont été remplis avec succès',
-		'refill_events_note' => ' - liste des mises à jour pour chaque utilisateur',
+		'refill_events_note' => ' - liste des notifications pour chaque utilisateur',
 		'refill_events_refilled' => 'rechargées pour ^1 sur ^2 questions...',
 		'refill_events' => 'Recharger le flux d\'événements',
 		'registration_fields' => 'ajouter des champs d\'enregistrement ',
