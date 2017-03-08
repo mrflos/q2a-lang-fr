@@ -110,7 +110,7 @@
 		'nav_home' => 'Accueil',
 		'nav_hot' => 'A Voir!',
 		'nav_login' => 'Connexion',
-		'nav_logout' => 'Déconnection',
+		'nav_logout' => 'Déconnexion',
 		'nav_most_answers' => 'Les + Répondues',
 		'nav_most_recent' => 'Les + Récentes',
 		'nav_most_views' => 'Les + Vues',
