@@ -79,7 +79,7 @@
 		'category_no_sub_error' => '^q question/s dans cette catégorie n\'ont pas de sous-catégorie - ^1définir sous-catégorie^2',
 		'category_no_sub_to' => 'Déplacer les question ^ sans sous-catégories dans:',
 		'category_no_subs' => 'Aucun',
-		'category_none_error' => '^q qquestion/s n\'ont actuellement aucune catégorie - ^1définir catégorie^2',
+		'category_none_error' => '^q question/s n\'ont actuellement aucune catégorie - ^1définir catégorie^2',
 		'category_none_to' => 'Déplacer les questions sans catégorie dans:',
 		'category_parent' => 'Catégorie parente:',
 		'category_saved' => 'Catégorie sauvée',
