@@ -63,6 +63,8 @@
 		'permit_retag' => 'Rechoisir les mots clés de toute question',
 		'permit_select_a' => 'Sélection de réponse pour toute question ',
 		'permit_view_q_page' => 'Visualisation des pages de questions',
+		'permit_view_new_users_page' => 'Visualisation de la page des nouveaux utilisateurs',
+		'permit_view_special_users_page' => 'Visualisation de la page des utilisateurs spéciaux',
 		'permit_view_voters_flaggers' => 'Regarde qui ont voté ou signalé les messages',
 		'permit_vote_a' => 'Vote sur les réponses',
 		'permit_vote_down' => 'Vote -',
