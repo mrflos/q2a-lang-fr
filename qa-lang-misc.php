@@ -83,6 +83,7 @@
 		'nav_user_pms' => 'Messages privés',
 		'nav_user_qs' => 'Toutes les questions',
 		'nav_user_wall' => 'Mur',
+		'next_step' => 'Étape suivante',
 		'no_activity_from_x' => 'Aucune activité de ^',
 		'no_favorite_categories' => 'Aucune catégorie préférée',
 		'no_favorite_qs' => 'Pas de questions préférées',
