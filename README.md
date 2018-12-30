@@ -11,6 +11,7 @@
 - Additions for 1.7 version by [Pierre-Yves Aillet](pierreyves.aillet@free.fr)
 - All other modifications made by [Florian Schmitt aka mrflos](https://github.com/mrflos).  
 - Better french translations by [Grégoire Barré](https://github.com/goroh100)
+- Better french translations and q2a 1.8 compatibility by  [Guillaume Turri](https://github.com/gturri)
 
 ## Alternative translations
 If you intend to use question2answer in order to submit ideas instead of questions, you can use the [@mose q2a french translation repository](https://github.com/crazy-toads/q2a-lang-fr-idees).
