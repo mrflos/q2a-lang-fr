@@ -219,7 +219,7 @@
 		'place_main_top' => 'Zone principale - Haut',
 		'place_side_below_categories' => 'Panneau latéral - Au dessus de categories',
 		'place_side_below_sidebar' => 'Panneau latéral - Au dessus de la boite encadrée',
-		'place_side_low' => 'Panneau latérail - Bas',
+		'place_side_low' => 'Panneau latéral - Bas',
 		'place_side_last' => 'Panneau latéral - Dernier',
 		'place_side_top' => 'Panneau latéral - Haut',
 		'points_a_selected' => 'Ma réponse est choisie comme la meilleure',
