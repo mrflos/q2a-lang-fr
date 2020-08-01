@@ -72,7 +72,7 @@
 		'remoderate_body' => "Un message édité par ^p_handle nécessite votre réapprobation:\n\n^open^p_context^close\n\nCliquez ci-dessous pour approuver ou masquer le message édité:\n\n^url\n\n\nCliquer ci-dessous pour examiner tous les messages en file d'attente:\n\n^a_url\n\n\nMerci,\n\n^site_title",
 		'remoderate_subject' => '^site_title modération',
 
-		'reset_body' => "Merci de cliquez ci-dessous pour réinitialiser votre mot de passe pour ^site_title.\n\n^url\n\nOu, entrez le code ci-dessous dans le champ prévu à cet effet.\n\nCode: ^code\n\nSi vous avez fait pas demander de réinitialiser votre mot de passe, merci d'ignorer ce message.\n\nMerci,\n^site_title",
+		'reset_body' => "Merci de cliquez ci-dessous pour réinitialiser votre mot de passe pour ^site_title.\n\n^url\n\nOu, entrez le code ci-dessous dans le champ prévu à cet effet.\n\nCode: ^code\n\nSi vous n'avez pas demandé de réinitialiser votre mot de passe, merci d'ignorer ce message.\n\nMerci,\n^site_title",
 		'reset_subject' => '^site_title - Reset mot de passe oublié',
 
 		'to_handle_prefix' => "^,\n\n",
