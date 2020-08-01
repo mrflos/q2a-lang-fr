@@ -88,7 +88,7 @@
 		'wall_post_body' => "^f_handle a posté sur votre mur utilisateur sur ^site_title:\n\n^open^post^close\n\nVous pouvez répondre au message ici:\n\n^url\n\nMerci,\n\n^site_title",
 
 		'welcome_body' => "Merci de votre inscription sur ^site_title.\n\n^custom^confirmVos informations de connexion sont les suivants:\n\nEmail: ^email\nMot de passe: ^password\n\nVeuillez garder cette information.\n\nMerci,\n\n^site_title\n^url",
-		'welcome_confirm' => "Merci de cliquez ci-dessous pour valider votre adresse e-mail.\n\n^url\n\n",
+		'welcome_confirm' => "Merci de cliquer ci-dessous pour valider votre adresse e-mail.\n\n^url\n\n",
 		'welcome_subject' => 'Bienvenue à ^site_title!',
 	);
 	
