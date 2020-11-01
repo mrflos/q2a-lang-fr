@@ -98,7 +98,7 @@
 		'category_top_level' => 'Aucun parent (niveau supérieur)',
 		'characters' => 'caractères',
 		'check_language_suffix' => ' - ^1vérifier fichiers de langue^2',
-		'click_name_edit' => 'pages ou des liens personnalisés:',
+		'click_name_edit' => 'Pages ou des liens personnalisés:',
 		'database_cleanup' => 'Opération de nettoyage de la base de données',
 		'delete_category_reassign' => 'Supprimer cette catégorie et réaffecter ses questions:',
 		'delete_category' => 'Supprimer cette catégorie',
