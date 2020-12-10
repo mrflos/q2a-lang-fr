@@ -28,7 +28,7 @@
 #     	ajouts pour la 1.7 par Pierre-Yves Aillet (pierreyves.aillet@free.fr)
 
 	return array(
-		'about' => 'A propos',
+		'about' => 'À propos',
 		'add_user_x_favorites' => 'Ajouter l\'utilisateur ^ à mes favoris',
 		'approve_required' => 'Patientez le temps que votre compte soit approuvé ou ^1ajoutez plus d\'information^2.',
 		'approve_title' => 'approbation de l\'utilisateur en cours',
