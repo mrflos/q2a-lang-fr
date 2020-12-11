@@ -61,7 +61,7 @@
 		'asked' => 'posée',
 		'by_x' => 'par ^',
 		'cancel_button' => 'Annuler',
-		'closed' => 'fermés',
+		'closed' => 'fermée',
 		'comment_edited' => 'commentaire édité',
 		'comment_moved' => 'commentaire déplacé',
 		'comment_reshown' => 'commentaire remontré',
