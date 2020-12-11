@@ -41,9 +41,9 @@
 		'c_commented_subject' => 'Un nouveau commentaire sur ^site_title a été ajouté après votre commentaire',
 
 		'confirm_body' => "Merci de cliquer ci-dessous pour valider votre adresse e-mail pour ^site_title.\n\n^url\n\nMerci,\n^site_title",
-		'confirm_subject' => '^site_title - Confirmation de l\'adresse email',
+		'confirm_subject' => '^site_title - Confirmation de l\'adresse e-mail',
 
-		'feedback_body' => "Commentaires:\n^message\n\nNom:\n^name\n\nEmail:\n^email\n\nPage précédente:\n^previous\n\nUtilisateur:\n^url\n\nAdresse IP:\n^ip\n\nNavigateur:\n^browser",
+		'feedback_body' => "Commentaires:\n^message\n\nNom:\n^name\n\nE-mail:\n^email\n\nPage précédente:\n^previous\n\nUtilisateur:\n^url\n\nAdresse IP:\n^ip\n\nNavigateur:\n^browser",
 		'feedback_subject' => 'Retour d\'information ^ ',
 
 		'flagged_body' => "Un message par ^p_handle a été ^flags:\n\n^open^p_context^close\n\nCliquez ci-dessous pour voir le message:\n\n^url\n\n\nCliquez ci-dessous pour revoir tous les messages signalés:\n\n^a_url\n\n\nMerci,\n\n^site_title",
@@ -87,7 +87,7 @@
 		'wall_post_subject' => ' Publier sur votre mur ^site_title',
 		'wall_post_body' => "^f_handle a posté sur votre mur utilisateur sur ^site_title:\n\n^open^post^close\n\nVous pouvez répondre au message ici:\n\n^url\n\nMerci,\n\n^site_title",
 
-		'welcome_body' => "Merci de votre inscription sur ^site_title.\n\n^custom^confirmVos informations de connexion sont les suivants:\n\nEmail: ^email\nMot de passe: ^password\n\nVeuillez garder cette information.\n\nMerci,\n\n^site_title\n^url",
+		'welcome_body' => "Merci de votre inscription sur ^site_title.\n\n^custom^confirmVos informations de connexion sont les suivants:\n\nE-mail: ^email\nMot de passe: ^password\n\nVeuillez garder cette information.\n\nMerci,\n\n^site_title\n^url",
 		'welcome_confirm' => "Merci de cliquer ci-dessous pour valider votre adresse e-mail.\n\n^url\n\n",
 		'welcome_subject' => 'Bienvenue à ^site_title!',
 	);
