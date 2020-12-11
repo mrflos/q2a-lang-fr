@@ -75,7 +75,7 @@
 		'post_wall_empty' => 'Entrer quelque chose à poster sur ce mur',
 		'post_wall_limit' => 'Vous ne pouvez pas écrire plus de messages sur un mur en ce moment',
 		'post_wall_must_be_approved' => 'Votre compte doit être approuvé pour poster sur ce mur.',
-		'post_wall_must_confirm' => '^5Confirmer votre adresse email^6 pour poster sur ce mur.',
+		'post_wall_must_confirm' => '^5Confirmer votre adresse e-mail^6 pour poster sur ce mur.',
 		'post_wall_must_login' => '^1Se connecter^2 ou ^3S\'inscrire^4 pour poster sur ce mur.',
 		'questions_by_x' => 'Questions de ^',
 		'questions' => 'Questions posées',
